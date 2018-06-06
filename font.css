@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'indv-mkt-icons';
+  src:  url('https://cdn.rawgit.com/WTW-IM/es-assets/5e75c80d/font/indv-mkt-icons.eot?j8b4en');
+  src:  url('https://cdn.rawgit.com/WTW-IM/es-assets/5e75c80d/font/indv-mkt-icons.eot?j8b4en#iefix') format('embedded-opentype'),
+    url('https://cdn.rawgit.com/WTW-IM/es-assets/5e75c80d/font/indv-mkt-icons.ttf?j8b4en') format('truetype'),
+    url('https://cdn.rawgit.com/WTW-IM/es-assets/5e75c80d/font/indv-mkt-icons.woff?j8b4en') format('woff'),
+    url('https://cdn.rawgit.com/WTW-IM/es-assets/5e75c80d/font/indv-mkt-icons.svg?j8b4en#indv-mkt-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
