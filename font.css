@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'indv-mkt-icons';
-  src:  url('font/indv-mkt-icons.eot?j8b4en');
-  src:  url('font/indv-mkt-icons.eot?j8b4en#iefix') format('embedded-opentype'),
-    url('font/indv-mkt-icons.ttf?j8b4en') format('truetype'),
-    url('font/indv-mkt-icons.woff?j8b4en') format('woff'),
-    url('font/indv-mkt-icons.svg?j8b4en#indv-mkt-icons') format('svg');
+  src: url('font/indv-mkt-icons.eot?32too');
+  src: url('font/indv-mkt-icons.eot?32too#iefix') format('embedded-opentype'),
+    url('font/indv-mkt-icons.ttf?32too') format('truetype'),
+    url('font/indv-mkt-icons.woff?32too') format('woff'),
+    url('font/indv-mkt-icons.svg?32too#indv-mkt-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
