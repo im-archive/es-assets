@@ -8,24 +8,3 @@
     url('font/indv-mkt-icons.woff?32112') format('woff'),
     url('font/indv-mkt-icons.svg?32112#indv-mkt-icons') format('svg');
 }
-
-@font-face {
-  font-family: 'SourceSansPro-Regular';
-  font-style: normal;
-  font-weight: normal;
-  src: url('font/SourceSansPro-Regular.otf.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'SourceSansPro-Bold';
-  font-style: normal;
-  font-weight: normal;
-  src: url('font/SourceSansPro-Bold.otf.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'SourceSansPro-Light';
-  font-style: normal;
-  font-weight: normal;
-  src: url('font/SourceSansPro-Light.otf.woff') format('woff');
-}
