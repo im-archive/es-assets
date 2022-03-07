@@ -1,2 +1,2 @@
-# es-assets
-## Shared image and font assets for products in Exchange Solutions
+# (deprecated) es-assets
+## This repo has been moved to im-enrollment/es-assets
